@@ -1,0 +1,20 @@
+public class Vetor {
+	private double x, y;
+
+	public Vetor(double x, double y) {
+		this.x = x;
+		this.y = y;
+	}
+
+	private Vetor() {
+		
+	}
+
+	public Vetor clone() {
+		
+	}
+
+	public String toString() {
+		
+	}
+}

@@ -1,0 +1,17 @@
+
+public class Voo {
+	private Assento assentos[][];
+	private int nFila;
+	private int nAssentos;
+	
+	public Voo(int nf,int na) {
+		char as;
+		assentos = new Assento[nFila][nAssentos]; //alocação dinâmica da matriz
+		
+		}
+	
+	public boolean reserva(int f, char a)
+	{
+		
+	}
+}

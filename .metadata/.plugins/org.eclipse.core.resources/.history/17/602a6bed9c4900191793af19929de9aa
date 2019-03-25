@@ -1,0 +1,16 @@
+
+public class Xpto 
+{
+	private static int contInst;
+	
+	
+	public Xpto()
+	{
+		this.contInst++;
+	}
+	
+	public getQtdInst()
+	{
+		
+	}
+}

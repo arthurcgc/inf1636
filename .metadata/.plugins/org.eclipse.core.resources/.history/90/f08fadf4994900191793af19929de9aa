@@ -1,0 +1,17 @@
+
+public class vetor {
+	private double x;
+	private double y;
+	
+	public vetor()
+	{
+		x = 0;
+		y = 0;
+	}
+
+	public vetor(double x, double y)
+	{
+		this.x = x;
+		this.y = y;
+	}
+}

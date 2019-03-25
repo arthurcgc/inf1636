@@ -1,0 +1,6 @@
+
+public class vetor {
+	private double x;
+	private double y;
+
+}

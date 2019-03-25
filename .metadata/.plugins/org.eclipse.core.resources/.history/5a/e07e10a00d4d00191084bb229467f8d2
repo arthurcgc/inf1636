@@ -1,0 +1,7 @@
+
+public class Voo {
+	private Assento assentos[];
+	private int nFila;
+	private int nAssentos;
+
+}

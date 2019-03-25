@@ -1,0 +1,4 @@
+
+public class Assento {
+	private int fila;
+}

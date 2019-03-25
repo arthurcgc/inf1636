@@ -1,0 +1,5 @@
+
+public class Xpto 
+{
+	private static int contInst;
+}

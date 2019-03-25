@@ -1,0 +1,6 @@
+
+public class Assento {
+	private int fila;
+	private char assento;
+	private boolean livre = true;
+}

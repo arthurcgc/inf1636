@@ -1,0 +1,11 @@
+
+public class EX0301 {
+
+	public static void main(String[] args) 
+	{
+		vetor v1 = new vetor(5.0, 6.0);
+		
+		
+	}
+
+}
