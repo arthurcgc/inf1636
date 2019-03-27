@@ -1,7 +1,0 @@
-package com.arthurcgc.rain;
-
-public class Screen 
-{
-	private int width;
-	private int height;
-}
