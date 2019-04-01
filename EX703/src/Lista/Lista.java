@@ -1,6 +1,6 @@
 package Lista;
 
-public class Lista {
+class Lista {
 	private int tam = 0;
 	private No ini = null;
 	private No fin = null;

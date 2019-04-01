@@ -1,5 +1,5 @@
 package FabricaPilha;
-import AdapterPilha.AdapterPilha;
+import Lista.AdapterPilha;
 import Pilha.Pilha;
 
 public class FabricaPilha {

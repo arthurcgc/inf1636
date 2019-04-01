@@ -1,5 +1,4 @@
-package AdapterPilha;
-import Lista.Lista;
+package Lista;
 import Pilha.Pilha;
 
 
